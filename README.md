@@ -9,6 +9,9 @@ Installation
 To use this tool, you'll need to have Node.js installed on your machine.  
 
 Commands:  
+  
   count_words <file>  Count the number of words in a file  
+    
   count_lines <file>  Count the number of lines in a file  
+    
   help [command]      display help for command  
